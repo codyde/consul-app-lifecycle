@@ -1,0 +1,4 @@
+.terraform/
+darwin_amd64/
+*.tfstate.*
+*.tfstate
