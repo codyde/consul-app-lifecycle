@@ -20,7 +20,7 @@ metadata:
 spec:
   containers:
   - name: api
-    image: codydearkland/apiv2:latest
+    image: codydearkland/apiv2:beta7
     ports:
     - containerPort: 5000
   serviceAccountName: api
